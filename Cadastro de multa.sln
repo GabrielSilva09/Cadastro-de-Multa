@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cadastro de multa", "Cadastro de multa\Cadastro de multa.csproj", "{8F16C553-A115-4B89-9461-54B3CF751676}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F16C553-A115-4B89-9461-54B3CF751676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F16C553-A115-4B89-9461-54B3CF751676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F16C553-A115-4B89-9461-54B3CF751676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F16C553-A115-4B89-9461-54B3CF751676}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8B60748-8313-4926-9D27-3119720918A5}
+	EndGlobalSection
+EndGlobal
